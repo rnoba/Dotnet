@@ -22,6 +22,7 @@
           packages = with pkgs; [
             dotnet
             omnisharp-roslyn
+            csharpier
           ] ++ extraPackages;
 
           shellHook = ''

@@ -83,19 +83,19 @@
     ]
   },
   "packageFolders": {
-    "/home/rnoba/.nuget/packages/": {}
+    "/home/rnoba/Lodge/Projects/Dotnet/.nuget/packages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/rnoba/Lodge/Projects/Dotnet/Minhocas/src/src.csproj",
-      "projectName": "src",
-      "projectPath": "/home/rnoba/Lodge/Projects/Dotnet/Minhocas/src/src.csproj",
-      "packagesPath": "/home/rnoba/.nuget/packages/",
-      "outputPath": "/home/rnoba/Lodge/Projects/Dotnet/Minhocas/src/obj/",
+      "projectUniqueName": "/home/rnoba/Lodge/Projects/Dotnet/Minhocas/Minhocas.csproj",
+      "projectName": "Minhocas",
+      "projectPath": "/home/rnoba/Lodge/Projects/Dotnet/Minhocas/Minhocas.csproj",
+      "packagesPath": "/home/rnoba/Lodge/Projects/Dotnet/.nuget/packages",
+      "outputPath": "/home/rnoba/Lodge/Projects/Dotnet/Minhocas/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/rnoba/.nuget/NuGet/NuGet.Config"
+        "/home/rnoba/Lodge/Projects/Dotnet/.dotnet/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
