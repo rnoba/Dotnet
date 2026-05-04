@@ -24,6 +24,7 @@
             echo " SDK Version : $(dotnet --version)"
             export DOTNET_ROOT="${dotnet}"
             export DOTNET_CLI_TELEMETRY_OPTOUT=1
+            export DOTNET_SKIP_FIRST_TIME_EXPERIENCE=1
             export DOTNET_NOLOGO=1
 
             export DOTNET_CLI_HOME="$PWD/.dotnet"
