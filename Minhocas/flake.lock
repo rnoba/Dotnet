@@ -1,0 +1,51 @@
+{
+  "nodes": {
+    "nixpkgs": {
+      "locked": {
+        "lastModified": 1751274312,
+        "narHash": "sha256-/bVBlRpECLVzjV19t5KMdMFWSwKLtb5RyXdjz3LJT+g=",
+        "owner": "NixOS",
+        "repo": "nixpkgs",
+        "rev": "50ab793786d9de88ee30ec4e4c24fb4236fc2674",
+        "type": "github"
+      },
+      "original": {
+        "owner": "NixOS",
+        "ref": "nixos-24.11",
+        "repo": "nixpkgs",
+        "type": "github"
+      }
+    },
+    "root": {
+      "inputs": {
+        "nixpkgs": [
+          "root",
+          "nixpkgs"
+        ],
+        "root": "root_2"
+      }
+    },
+    "root_2": {
+      "inputs": {
+        "nixpkgs": "nixpkgs"
+      },
+      "locked": {
+        "dir": ".",
+        "lastModified": 1777927005,
+        "narHash": "sha256-kBtMofvyv3Dn9IHtz0yRZQFAQ70IIg341dvTmvbA5F4=",
+        "ref": "refs/heads/main",
+        "rev": "1e22e1d1768cce49ef644408d84f358e9b40dd1e",
+        "revCount": 1,
+        "type": "git",
+        "url": "file:///home/rnoba/Lodge/Projects/Dotnet"
+      },
+      "original": {
+        "dir": ".",
+        "type": "git",
+        "url": "file:///home/rnoba/Lodge/Projects/Dotnet"
+      }
+    }
+  },
+  "root": "root",
+  "version": 7
+}
