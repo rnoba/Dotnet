@@ -31,11 +31,11 @@
       },
       "locked": {
         "dir": ".",
-        "lastModified": 1777927005,
-        "narHash": "sha256-kBtMofvyv3Dn9IHtz0yRZQFAQ70IIg341dvTmvbA5F4=",
+        "lastModified": 1777928476,
+        "narHash": "sha256-SsO9ETIqy3maIQmAunZDLMDl8dJiFeiTBXdAdxINLxo=",
         "ref": "refs/heads/main",
-        "rev": "1e22e1d1768cce49ef644408d84f358e9b40dd1e",
-        "revCount": 1,
+        "rev": "96418a8950550fd2f6db28277f99ed4172008ffd",
+        "revCount": 3,
         "type": "git",
         "url": "file:///home/rnoba/Lodge/Projects/Dotnet"
       },

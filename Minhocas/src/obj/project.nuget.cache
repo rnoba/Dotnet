@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "muVtTcOJ88s=",
+  "success": true,
+  "projectFilePath": "/home/rnoba/Lodge/Projects/Dotnet/Minhocas/src/src.csproj",
+  "expectedPackageFiles": [
+    "/home/rnoba/.nuget/packages/microsoft.aspnetcore.openapi/10.0.0-preview.3.25172.1/microsoft.aspnetcore.openapi.10.0.0-preview.3.25172.1.nupkg.sha512",
+    "/home/rnoba/.nuget/packages/microsoft.openapi/2.0.0-preview.11/microsoft.openapi.2.0.0-preview.11.nupkg.sha512"
+  ],
+  "logs": []
+}

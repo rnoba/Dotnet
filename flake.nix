@@ -26,8 +26,8 @@
             export DOTNET_CLI_TELEMETRY_OPTOUT=1
             export DOTNET_NOLOGO=1
 
-            export NUGET_PACKAGES="$PWD/.dotnet/packages"
             export DOTNET_CLI_HOME="$PWD/.dotnet"
+            export NUGET_PACKAGES="$PWD/.dotnet/packages"
 
             mkdir -p "$PWD/.dotnet/packages"
             mkdir -p "$PWD/.dotnet/tools"
