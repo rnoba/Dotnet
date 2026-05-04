@@ -25,7 +25,13 @@
             export DOTNET_ROOT="${dotnet}"
             export DOTNET_CLI_TELEMETRY_OPTOUT=1
             export DOTNET_NOLOGO=1
+
+            export NUGET_PACKAGES="$PWD/.dotnet/packages"
+            export DOTNET_CLI_HOME="$PWD/.dotnet"
+
+            mkdir -p "$PWD/.dotnet/packages"
             mkdir -p "$PWD/.dotnet/tools"
+
             export PATH="$PATH:$PWD/.dotnet/tools"
           '';
         };
