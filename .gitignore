@@ -1,4 +1,5 @@
 .direnv
 .dotnet
 .envrc
+.nuget
 flake.lock
