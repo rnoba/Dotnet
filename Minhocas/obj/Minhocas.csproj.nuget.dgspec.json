@@ -10,11 +10,11 @@
         "projectUniqueName": "/home/rnoba/Lodge/Projects/Dotnet/Minhocas/Minhocas.csproj",
         "projectName": "Minhocas",
         "projectPath": "/home/rnoba/Lodge/Projects/Dotnet/Minhocas/Minhocas.csproj",
-        "packagesPath": "/home/rnoba/Lodge/Projects/Dotnet/Minhocas/.nuget/packages",
+        "packagesPath": "/home/rnoba/Lodge/Projects/Dotnet/.nuget/packages",
         "outputPath": "/home/rnoba/Lodge/Projects/Dotnet/Minhocas/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/rnoba/Lodge/Projects/Dotnet/Minhocas/.dotnet/.nuget/NuGet/NuGet.Config"
+          "/home/rnoba/Lodge/Projects/Dotnet/.dotnet/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
